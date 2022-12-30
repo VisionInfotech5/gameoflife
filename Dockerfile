@@ -1,2 +1,2 @@
-FROM httpd
+FROM tomcat
 EXPOSE 80
